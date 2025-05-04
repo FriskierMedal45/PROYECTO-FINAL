@@ -1,1 +1,4 @@
+git add .
+git commit -m "Corregir error tipográfico en README"
+git push origin bug-fix-typo
 
